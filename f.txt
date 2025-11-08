@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 iam f.txt
 
+=======
+hello f
+>>>>>>> 8d39690df329e40136e79a2db76f55f035274ba3
