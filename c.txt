@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello c
+=======
+Hi I am c
+>>>>>>> 7263b5efb5fd17b92e8e0fe8a6560d6201da4aa5

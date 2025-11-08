@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 iam f.txt
 
 =======
 hello f
 >>>>>>> 8d39690df329e40136e79a2db76f55f035274ba3
+=======
+hi I am f
+>>>>>>> 7263b5efb5fd17b92e8e0fe8a6560d6201da4aa5
